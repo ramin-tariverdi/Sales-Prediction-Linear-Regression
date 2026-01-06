@@ -45,4 +45,4 @@ This section focuses on rigorous statistical testing to compare experimental dat
 
 2. Place the data.csv file in the same directory as the notebook.
 
-3. Launch Jupyter Notebook and run sales_analysis_regression.ipynb.
+3. Launch Jupyter Notebook and run `sales_analysis_regression.ipynb`.
